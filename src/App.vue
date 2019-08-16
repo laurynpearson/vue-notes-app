@@ -1,7 +1,7 @@
 <template>
  <div id="app">
    <toolbar />
-   <noteContainer />
+    <note-container />
  </div>
 </template>
 <script>
